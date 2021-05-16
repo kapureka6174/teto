@@ -1,7 +1,7 @@
 'use strict';
 
 // 落ちるスピード
-const GAME_SPEED = 100;
+const GAME_SPEED = 1000000;
 
 //　フィールドのサイズ
 const FIELD_COL = 10;
